@@ -50,7 +50,7 @@ Cory Arcangel, 2004
 
 http://www.coryarcangel.com
 
-Requirements:  Osx, perl, the "lame" mp3 encoder/decoder, the "normailze" binary
+Requirements:  The "lame" mp3 encoder/decoder, the "normailze" binary
 Cory Arcangel (special thx to the Radical Software Group) 
 
 Script to compress an mp3 recursively (666) times.  
